@@ -1,0 +1,17 @@
+{
+  "name": "exemples-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercice0 (OK).js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node exercice3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YaliMK",
+  "license": "ISC"
+}
